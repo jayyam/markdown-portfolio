@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Aunque _la barrera idiomatica_ influye, ~~es importante destacar que soy un avido lector~~ ademas de comprender cosas al vuelo**
